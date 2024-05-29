@@ -1,0 +1,44 @@
+body
+{ 
+    font-family:Arial, sans-serif;
+    margin:0;
+    padding: 0;
+}
+
+.header
+{ 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color:teal;
+}
+
+.logo1
+{ 
+    max-width: 150px;
+    align-self :left;
+
+}
+.logo2
+{ 
+    max-width: 150px;
+    align-self :right;
+}
+.jules
+{ 
+    width: 150px;
+    margin-top: 10px;
+
+}
+
+
+.wellcome
+{ 
+    text-align: center;
+    font-size: 24px;
+    flex:1
+}
+
+
+

@@ -1,0 +1,44 @@
+.body
+{  
+   background-color:blue;
+}
+
+.logo
+{ 
+    display: flex;
+    justify-content: space-between;
+}
+
+.uac
+{ 
+    margin-bottom: 0px;
+    
+}
+.eneam
+{ 
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.titre1 
+{ 
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+}
+.titre2 h1
+{ 
+    font-size: 20px;
+    margin-bottom: 12px;
+}   
+.cursus
+{ 
+    margin-right: 100px;
+}    
+
+.photo img 
+{
+    width: 150px
+}
+
